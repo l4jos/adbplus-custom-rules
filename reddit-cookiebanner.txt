@@ -1,1 +1,2 @@
 www.reddit.com##reddit-cookie-banner
+www.reddit.com##+js(rc, scroll-is-blocked|scroll-disabled, , stay)
